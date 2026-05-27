@@ -1,0 +1,338 @@
+[
+  {
+    "id": "GER",
+    "name": "Germany",
+    "color": "#4b5563",
+    "ideology": "Fascist",
+    "stability": 0.72,
+    "warSupport": 0.75,
+    "population": 65000000,
+    "manpower": 3500000,
+    "factories": 30,
+    "researchSlots": 4,
+    "politicalPower": 150,
+    "resources": {
+      "steel": 48,
+      "oil": 6,
+      "aluminum": 12,
+      "tungsten": 2,
+      "rubber": 0,
+      "chromium": 4
+    }
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "color": "#2563eb",
+    "ideology": "Democratic",
+    "stability": 0.62,
+    "warSupport": 0.45,
+    "population": 42000000,
+    "manpower": 1800000,
+    "factories": 24,
+    "researchSlots": 4,
+    "politicalPower": 120,
+    "resources": {
+      "steel": 32,
+      "oil": 2,
+      "aluminum": 12,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 2
+    }
+  },
+  {
+    "id": "ENG",
+    "name": "United Kingdom",
+    "color": "#1d4ed8",
+    "ideology": "Democratic",
+    "stability": 0.7,
+    "warSupport": 0.5,
+    "population": 47000000,
+    "manpower": 2000000,
+    "factories": 28,
+    "researchSlots": 4,
+    "politicalPower": 130,
+    "resources": {
+      "steel": 24,
+      "oil": 4,
+      "aluminum": 8,
+      "tungsten": 0,
+      "rubber": 4,
+      "chromium": 2
+    }
+  },
+  {
+    "id": "ITA",
+    "name": "Italy",
+    "color": "#22c55e",
+    "ideology": "Fascist",
+    "stability": 0.55,
+    "warSupport": 0.6,
+    "population": 41000000,
+    "manpower": 1500000,
+    "factories": 18,
+    "researchSlots": 3,
+    "politicalPower": 110,
+    "resources": {
+      "steel": 12,
+      "oil": 4,
+      "aluminum": 6,
+      "tungsten": 2,
+      "rubber": 0,
+      "chromium": 4
+    }
+  },
+  {
+    "id": "POL",
+    "name": "Poland",
+    "color": "#dc2626",
+    "ideology": "Neutral",
+    "stability": 0.5,
+    "warSupport": 0.4,
+    "population": 35000000,
+    "manpower": 1400000,
+    "factories": 14,
+    "researchSlots": 3,
+    "politicalPower": 90,
+    "resources": {
+      "steel": 18,
+      "oil": 2,
+      "aluminum": 2,
+      "tungsten": 2,
+      "rubber": 0,
+      "chromium": 0
+    }
+  },
+  {
+    "id": "SOV",
+    "name": "Soviet Union",
+    "color": "#b91c1c",
+    "ideology": "Communist",
+    "stability": 0.6,
+    "warSupport": 0.55,
+    "population": 168000000,
+    "manpower": 6000000,
+    "factories": 36,
+    "researchSlots": 4,
+    "politicalPower": 160,
+    "resources": {
+      "steel": 60,
+      "oil": 18,
+      "aluminum": 12,
+      "tungsten": 10,
+      "rubber": 0,
+      "chromium": 8
+    }
+  },
+  {
+    "id": "SPA",
+    "name": "Spain",
+    "color": "#f97316",
+    "ideology": "Neutral",
+    "stability": 0.4,
+    "warSupport": 0.35,
+    "population": 25000000,
+    "manpower": 900000,
+    "factories": 10,
+    "researchSlots": 2,
+    "politicalPower": 80,
+    "resources": {
+      "steel": 8,
+      "oil": 2,
+      "aluminum": 2,
+      "tungsten": 10,
+      "rubber": 0,
+      "chromium": 2
+    }
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "color": "#0ea5e9",
+    "ideology": "Neutral",
+    "stability": 0.75,
+    "warSupport": 0.2,
+    "population": 6500000,
+    "manpower": 200000,
+    "factories": 8,
+    "researchSlots": 2,
+    "politicalPower": 70,
+    "resources": {
+      "steel": 20,
+      "oil": 0,
+      "aluminum": 6,
+      "tungsten": 2,
+      "rubber": 0,
+      "chromium": 0
+    }
+  },
+  {
+    "id": "TUR",
+    "name": "Turkey",
+    "color": "#f59e0b",
+    "ideology": "Neutral",
+    "stability": 0.55,
+    "warSupport": 0.3,
+    "population": 17000000,
+    "manpower": 700000,
+    "factories": 9,
+    "researchSlots": 2,
+    "politicalPower": 75,
+    "resources": {
+      "steel": 6,
+      "oil": 4,
+      "aluminum": 2,
+      "tungsten": 4,
+      "rubber": 0,
+      "chromium": 16
+    }
+  },
+  {
+    "id": "ROM",
+    "name": "Romania",
+    "color": "#facc15",
+    "ideology": "Neutral",
+    "stability": 0.5,
+    "warSupport": 0.35,
+    "population": 19000000,
+    "manpower": 750000,
+    "factories": 10,
+    "researchSlots": 2,
+    "politicalPower": 70,
+    "resources": {
+      "steel": 6,
+      "oil": 16,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 2
+    }
+  },
+  {
+    "id": "CZE",
+    "name": "Czechoslovakia",
+    "color": "#38bdf8",
+    "ideology": "Democratic",
+    "stability": 0.6,
+    "warSupport": 0.4,
+    "population": 15000000,
+    "manpower": 600000,
+    "factories": 12,
+    "researchSlots": 2,
+    "politicalPower": 80,
+    "resources": {
+      "steel": 8,
+      "oil": 0,
+      "aluminum": 4,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 2
+    }
+  },
+  {
+    "id": "HUN",
+    "name": "Hungary",
+    "color": "#16a34a",
+    "ideology": "Neutral",
+    "stability": 0.55,
+    "warSupport": 0.3,
+    "population": 9000000,
+    "manpower": 350000,
+    "factories": 7,
+    "researchSlots": 2,
+    "politicalPower": 65,
+    "resources": {
+      "steel": 4,
+      "oil": 0,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 1
+    }
+  },
+  {
+    "id": "YUG",
+    "name": "Yugoslavia",
+    "color": "#22c55e",
+    "ideology": "Neutral",
+    "stability": 0.45,
+    "warSupport": 0.3,
+    "population": 16000000,
+    "manpower": 650000,
+    "factories": 8,
+    "researchSlots": 2,
+    "politicalPower": 60,
+    "resources": {
+      "steel": 6,
+      "oil": 2,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 3
+    }
+  },
+  {
+    "id": "FIN",
+    "name": "Finland",
+    "color": "#60a5fa",
+    "ideology": "Neutral",
+    "stability": 0.7,
+    "warSupport": 0.4,
+    "population": 3800000,
+    "manpower": 160000,
+    "factories": 6,
+    "researchSlots": 2,
+    "politicalPower": 60,
+    "resources": {
+      "steel": 4,
+      "oil": 0,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 0,
+      "chromium": 0
+    }
+  },
+  {
+    "id": "NLD",
+    "name": "Netherlands",
+    "color": "#f97316",
+    "ideology": "Democratic",
+    "stability": 0.65,
+    "warSupport": 0.35,
+    "population": 9000000,
+    "manpower": 300000,
+    "factories": 8,
+    "researchSlots": 2,
+    "politicalPower": 70,
+    "resources": {
+      "steel": 6,
+      "oil": 2,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 4,
+      "chromium": 0
+    }
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "color": "#fbbf24",
+    "ideology": "Democratic",
+    "stability": 0.6,
+    "warSupport": 0.35,
+    "population": 8300000,
+    "manpower": 260000,
+    "factories": 7,
+    "researchSlots": 2,
+    "politicalPower": 65,
+    "resources": {
+      "steel": 6,
+      "oil": 0,
+      "aluminum": 2,
+      "tungsten": 0,
+      "rubber": 2,
+      "chromium": 0
+    }
+  }
+]

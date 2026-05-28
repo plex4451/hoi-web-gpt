@@ -1,0 +1,62 @@
+[
+  {
+    "id": "GER-1",
+    "name": "1st Infantry Division",
+    "countryId": "GER",
+    "type": "Infantry",
+    "provinceId": "GER-RHI",
+    "strength": 0.9,
+    "organization": 0.85,
+    "speed": 4
+  },
+  {
+    "id": "GER-2",
+    "name": "2nd Panzer Division",
+    "countryId": "GER",
+    "type": "Armor",
+    "provinceId": "GER-BER",
+    "strength": 0.95,
+    "organization": 0.8,
+    "speed": 6
+  },
+  {
+    "id": "POL-1",
+    "name": "Warsaw Defense",
+    "countryId": "POL",
+    "type": "Infantry",
+    "provinceId": "POL-WAR",
+    "strength": 0.8,
+    "organization": 0.7,
+    "speed": 4
+  },
+  {
+    "id": "POL-2",
+    "name": "Krakow Corps",
+    "countryId": "POL",
+    "type": "Infantry",
+    "provinceId": "POL-KRK",
+    "strength": 0.75,
+    "organization": 0.68,
+    "speed": 4
+  },
+  {
+    "id": "FRA-1",
+    "name": "Paris Garrison",
+    "countryId": "FRA",
+    "type": "Infantry",
+    "provinceId": "FRA-PAR",
+    "strength": 0.82,
+    "organization": 0.72,
+    "speed": 4
+  },
+  {
+    "id": "ENG-1",
+    "name": "Home Guard",
+    "countryId": "ENG",
+    "type": "Infantry",
+    "provinceId": "ENG-LON",
+    "strength": 0.78,
+    "organization": 0.7,
+    "speed": 4
+  }
+]
